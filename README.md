@@ -19,5 +19,5 @@ Birthday on December 29
 
 #### Find Me
 -------------
-:fa-instagram: 
+:fa-twitter:
 
