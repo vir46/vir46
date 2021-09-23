@@ -22,6 +22,6 @@
 
 #### Find Me
 -------------
-
-Twitter : 
+(https://twitter.com/Virtus_Tan "Twitter")
+(https://www.instagram.com/virtustan/ "Instagram")
 
