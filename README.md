@@ -32,5 +32,8 @@
 -------------
 ![](https://fcnogivn.com/wp-content/uploads/2018/03/Magazine-57.png)
 
-**Left** : Saito Asuka, **Right** : Terada Ranze
+> **Left** : Saito Asuka, **Right** : Terada Ranze
+                
+----
+
 
