@@ -1,7 +1,7 @@
 ### Hi, Virtus Tan Here 👋
 
 
-Basic Information
+### Basic Information
 -------------
 
 > Blockquotes 
