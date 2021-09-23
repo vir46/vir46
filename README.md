@@ -5,10 +5,11 @@
 
 #### Basic Information
 -------------
+live in Indonesia
 
- live in Indonesia
- Birthday on December 29
- 100% Male
+Birthday on December 29
+
+100% Male
 
 #### Education
 -------------
