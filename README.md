@@ -22,9 +22,7 @@
 
 #### Find Me
 -------------
-[Links with title](http://localhost/ "link title")
+[**Twitter**](https://twitter.com/Virtus_Tan "Twitter")
 
-[Links with title](https://twitter.com/Virtus_Tan "Twitter")
-
-[Links with title](https://www.instagram.com/virtustan/ "Instagram")
+[**Instagram**](https://www.instagram.com/virtustan/ "Instagram")
 
