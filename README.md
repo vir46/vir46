@@ -1,4 +1,4 @@
-## Hi, Virtus Tan Here 👋
+## 🕴 Hi, Virtus Tan Here
 
 
 
@@ -13,5 +13,11 @@ Birthday on December 29
 
 #### Education
 -------------
+
 > Informatics Engineering from 2018 at Atma Jaya University Yogyakarta
+
+
+#### Find Me
+-------------
+:fa-instagram: 
 
