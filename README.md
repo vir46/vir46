@@ -1,10 +1,16 @@
-### Hi, Virtus Tan Here 👋
+## Hi, Virtus Tan Here 👋
 
 
-### Basic Information
+
+
+#### Basic Information
 -------------
 
-> Blockquotes 
-> awd
-> 
+> live in Indonesia
+> Birthday on December 29
+> 100% Male
+
+#### Education
+-------------
+> Informatics Engineering from 2018 at Atma Jaya University Yogyakarta
 
