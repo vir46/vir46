@@ -24,7 +24,7 @@
 -------------
 [Links with title](http://localhost/ "link title")
 
-(https://twitter.com/Virtus_Tan "Twitter")
+[Links with title](https://twitter.com/Virtus_Tan "Twitter")
 
-(https://www.instagram.com/virtustan/ "Instagram")
+[Links with title](https://www.instagram.com/virtustan/ "Instagram")
 
