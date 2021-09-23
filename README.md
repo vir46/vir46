@@ -15,8 +15,8 @@ Hobby : Playing Competitive First Person Shooter Games
 
 
 
-## Daily Routines
-> ### Likes listening to music especially from an idol group named Nogizaka46 from Japan
+#### Daily Routines
+> Likes listening to music especially from an idol group named Nogizaka46 from Japan
 
 #### Education
 -------------
