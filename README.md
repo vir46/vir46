@@ -5,11 +5,18 @@
 
 #### Basic Information
 -------------
-live in Indonesia
+Residence : live in Indonesia
 
-Birthday on December 29
+Birth : 29th December 
 
-100% Male
+Gender : 100% Male
+
+Hobby : Playing Competitive First Person Shooter Games
+
+
+
+## Daily Routines
+> ### Likes listening to music especially from an idol group named Nogizaka46 from Japan
 
 #### Education
 -------------
@@ -19,5 +26,6 @@ Birthday on December 29
 
 #### Find Me
 -------------
-:fa-twitter:
+
+Twitter : 
 
