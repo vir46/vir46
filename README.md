@@ -30,7 +30,7 @@
 [**Instagram**](https://www.instagram.com/virtustan/ "Instagram")
 
 
-### 推し Idol Oshimen
+### 推し Idol Oshi
 -------------
 ![](https://fcnogivn.com/wp-content/uploads/2018/03/Magazine-57.png)
 
