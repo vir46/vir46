@@ -36,13 +36,6 @@
 
 > 1st Gen **Left** : Saito Asuka, **Right** 2nd Gen : Terada Ranze  【神推し💎】
 
-![](https://static.wikia.nocookie.net/akb48/images/3/38/Yoda_Yuki_Gomenne.jpg/revision/latest/scale-to-width-down/240?cb=20210625143548)
-
-> 3rd Gen : Yoda Yuki
-
-![](https://i.imgur.com/6XRXlzXm.jpg)
-
-> 4th Gen : Kaki Haruka
 ----
 
 
