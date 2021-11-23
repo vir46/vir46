@@ -7,8 +7,6 @@
 -------------
 🆔 Residence : live in Indonesia 
 
-👶 Birth : 29th December
-
 👨 Gender : 100% Male
 
 🎮 Hobby : Playing Competitive First Person Shooter Games
