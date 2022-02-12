@@ -1,4 +1,4 @@
-<img href='https://i.imgur.com/jDSrnEU.jpg' height="175px"/>
+<img width="100%" height="auto" src="https://i.imgur.com/jDSrnEU.jpg" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Virtus Tan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Indonesia.</h3>
@@ -6,7 +6,6 @@
 
 
 #### What You Need To Know About Me
--------------
 > 🆔 live in Indonesia
 
 > 🌱 I’m currently learning **React and Nuxt**
@@ -33,13 +32,17 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-lfs.github.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20246716?s=280&v=4"/> </a> 
+    <a href="https://git-lfs.github.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20246716?s=280&v=4" width="48" height="48"/> </a> 
     <a href="https://nuxtjs.org" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1438501794754142212/_SXc-Z_h.jpg" alt="express" width="40" height="40"/> </a>
 </p>
 
+<br/>
+<br/>
+    
 #### Education
 > Informatics Engineering class of 2018 at Atma Jaya University Yogyakarta
 
+    <br/><br/>
 ### About Github 
 
 [**Github Contribute**]
@@ -55,9 +58,10 @@
 <br/>
     <p align="center">
     <img alt="Virtus Tan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=virtustan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+        <br/>
     <img alt="Virtus Tan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtustan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </p>
-  <br/>
+  <br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
