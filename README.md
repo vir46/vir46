@@ -1,5 +1,6 @@
-<img width="100%" height="auto" src="https://i.imgur.com/jDSrnEU.jpg" height="175px"/>
-
+<p align="center">
+<img src="https://i.imgur.com/jDSrnEU.jpg" width="240" height="240"/>
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Virtus Tan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Indonesia.</h3>
 
@@ -17,6 +18,9 @@
 > 👯 I’m looking to collaborate on **OpenSource Projects**
 
 > <b> Funfact Im a fans of idol group "Nogizaka46", my oshi name's "Ranze Terada"
+    
+<br/>
+<br/>
 
 ### 🔎 Languages and Tools :
 
@@ -42,7 +46,9 @@
 #### Education
 > Informatics Engineering class of 2018 at Atma Jaya University Yogyakarta
 
-    <br/><br/>
+<br/>
+<br/>
+    
 ### About Github 
 
 [**Github Contribute**]
