@@ -59,6 +59,9 @@
     </a>
 </p>
 
+    ![](https://github.com/virtustan/virtustan/blob/main/virtus.svg)
+    
+    about:blank
 [**Github Stats**]
 
 <br/>
