@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/jDSrnEU.jpg" width="240" height="240"/>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Virtus Tan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Virtus Tan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Indonesia.</h3>
 
 
@@ -17,16 +17,15 @@
 
 > 👯 I’m looking to collaborate on **OpenSource Projects**
 
-> <b> Funfact Im a fans of idol group "Nogizaka46", my oshi name's "Ranze Terada"
     
 <br/>
 <br/>
 
 ### 🔎 Languages and Tools :
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<p align="center"> 
+<!--     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
+<!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -36,7 +35,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-lfs.github.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20246716?s=280&v=4" width="48" height="48"/> </a> 
+<!--     <a href="https://git-lfs.github.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20246716?s=280&v=4" width="48" height="48"/> </a>  -->
     <a href="https://nuxtjs.org" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1438501794754142212/_SXc-Z_h.jpg" alt="express" width="40" height="40"/> </a>
 </p>
 
