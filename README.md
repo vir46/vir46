@@ -58,9 +58,9 @@
     </a>
 </p>
 
-Contribution Graph until 11 April 2022 - Snake Game
+Contribution Graph until 27th June 2022 - Snake Game
 
-![](https://github.com/virtustan/virtustan/blob/main/virtus.svg)
+![](https://github.com/virtustan/virtustan/blob/main/github-user-contribution.svg)
     
 [**Github Stats**]
 
