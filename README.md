@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/jDSrnEU.jpg" width="240" height="240"/>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Virtus Tan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm #### </h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Indonesia.</h3>
 
 
@@ -13,7 +13,7 @@
 
 > 🎮 Love to playing competitive FPS games
 
-> 💻 All of my projects are available at **[My Portfolio](https://virtustan.github.io)**
+> 💻 All of my projects are available at ** - **
 
 > 👯 I’m looking to collaborate on **OpenSource Projects**
 
