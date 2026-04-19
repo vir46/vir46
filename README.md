@@ -54,36 +54,15 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Virtus tan's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Virtustan&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+        
     </a>
 </p>
-
-Contribution Graph until 27th June 2022 - Snake Game
-
-![](https://github.com/virtustan/virtustan/blob/main/github-user-contribution.svg)
-    
-[**Github Stats**]
-
-<br/>
-    <p align="center">
-    <img alt="Virtus Tan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=virtustan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-        <br/>
-    <img alt="Virtus Tan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtustan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </p>
-  <br/><br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-
-<img alt="Virtus Tan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=virtustan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 #### Find Me
 -------------
 <p align="center">
-    <a href = "https://www.linkedin.com/in/virtus-tan-186237183/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "https://twitter.com/Virtus_Tan/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href = "https://www.instagram.com/virtustan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    
 </p>
 
 
